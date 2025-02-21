@@ -193,7 +193,7 @@ margin-right: 30px;
 }
 
 .sitenav__link:hover {
-  color: var(--text-color);
+  color: var(--heading-color);
 }
 
 .sitenav__link:active {
