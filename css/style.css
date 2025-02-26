@@ -405,6 +405,10 @@ margin-right: 30px;
   border-radius: 5px;
 }
 
+.url-shortener__copy-button--copied {
+  background-color: #3a3054;
+}
+
 .form {
   display: grid;
   grid-auto-rows: minmax(40px, auto);
