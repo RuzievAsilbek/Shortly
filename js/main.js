@@ -1,1 +1,8 @@
-.
+const elURLShortenerForm = document.querySelector('.js-url-shortener-form');
+const elUrlShortenerResults = document.querySelector('.url-shortener__results');
+
+elURLShortenerForm.addEventListener('submit', function (evt) {
+  evt.preventDefault();
+
+elUrlShortenerResults.classList.add('url-shortener__results--open');
+});
