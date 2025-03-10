@@ -457,6 +457,7 @@ button {
   line-height: 48px;
   letter-spacing: -1px;
   color: var(--heading-color);
+  text-transform: capitalize;
 }
 .index-features__top-info {
   margin: 0;
@@ -528,6 +529,7 @@ button {
   font-size: 22px;
   line-height: normal;
   color: var(--heading-color);
+  text-transform: capitalize;
 }
 
 .index-feature__info {
